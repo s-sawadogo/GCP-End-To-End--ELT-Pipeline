@@ -12,7 +12,7 @@
 - Data analysis in BigQuery to solve business problems.
 - Building and evaluating Machine Learning models directly in BigQuery through BigQuery ML.
 
-[Workflow](<img width="1446" height="824" alt="ETL_flow" src="https://github.com/user-attachments/assets/1b851a97-d465-48e3-9de8-a8893392e2bd" />)
+[Workflow](<img width="1446" height="824" alt="ETL_flow" src="assets/ETL_flow.png" />)
 
 
 **📊 Dataset**
